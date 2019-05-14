@@ -34,7 +34,7 @@ import com.nuclearfarts.simpleoldcombat.installer.util.ProgressModal;
 public class Installer {
 
 	/** If true, the installer will use a local index file. For testing. */
-	private static final boolean USE_LOCAL = true;
+	private static final boolean USE_LOCAL = false;
 	public static final URL VERSION_INDEX_LOCATION;
 
 	static {
